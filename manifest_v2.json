@@ -1,0 +1,38 @@
+{
+  "item": {
+    "id": "979877566082",
+    "restype": "watchface",
+    "name": "四个大的数字",
+    "description": "让排版错乱，让字体笨拙，让屏幕只剩时间 - 交错的时分。",
+    "preview": [
+      "media/2cover_v_1440x2160.png",
+      "media/3concept_1440x2160.png",
+      "media/4aod_1440x2160.png"
+    ],
+    "icon": "media/preview-256.png",
+    "cover": "media/1cover_2160x1440.png",
+    "author": [
+      {
+        "name": "seegood",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [
+    {
+      "title": "联系我",
+      "url": "https://imwjh.com/contact",
+      "icon": "envelope-open"
+    }
+  ],
+  "downloads": {
+    "xmrw6": {
+      "version": "1.0.2",
+      "file_name": "downloads/15四个大的数字-10-24-02-15.bin",
+      "versionCode": 65538
+    }
+  },
+  "ext": {
+    "enableAstroBoxCreatorFeatures": true
+  }
+}
