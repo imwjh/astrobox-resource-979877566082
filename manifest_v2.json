@@ -3,7 +3,7 @@
     "id": "979877566082",
     "restype": "watchface",
     "name": "四个大的数字",
-    "description": "让排版错乱，让字体笨拙，让屏幕只剩时间 - 交错的时分。",
+    "description": "让排版错乱，让字体笨拙，让屏幕只剩时间 - 交错的时分。\n\n即日起至 11 月 24 日，享 8 折",
     "preview": [
       "media/2cover_v_1440x2160.png",
       "media/3concept_1440x2160.png",
@@ -27,9 +27,9 @@
   ],
   "downloads": {
     "xmrw6": {
-      "version": "1.0.2",
+      "version": "1.0.3",
       "file_name": "downloads/15四个大的数字-10-24-02-15.bin",
-      "versionCode": 65538
+      "versionCode": 65539
     }
   },
   "ext": {
