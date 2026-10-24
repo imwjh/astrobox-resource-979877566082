@@ -9,7 +9,7 @@
       "media/3concept_1440x2160.png",
       "media/4aod_1440x2160.png"
     ],
-    "icon": "media/15_active-256.png",
+    "icon": "media/preview-256.png",
     "cover": "media/1cover_2160x1440.png",
     "author": [
       {
@@ -27,9 +27,9 @@
   ],
   "downloads": {
     "xmrw6": {
-      "version": "1.0.3",
-      "file_name": "downloads/15四个大的数字-10-24-02-15.bin",
-      "versionCode": 65539
+      "version": "3.0.2",
+      "file_name": "downloads/15四个大的数字-探索版-10-24-10-40.bin",
+      "versionCode": 196610
     }
   },
   "ext": {
